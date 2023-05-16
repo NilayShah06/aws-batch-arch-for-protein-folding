@@ -1,4 +1,4 @@
-# AWS Batch Architecture for Protein Folding and Design
+# AWS Batch Architecture for Protein Folding and Design CHANGED
 
 ## Contents
 
